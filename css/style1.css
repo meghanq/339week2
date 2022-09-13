@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Impact;
+    line-height: 2;
+    color: darkgreen; 
+    background-color: whitesmoke;
+    font-size: 24px;
+}
+
+img{
+    border: solid 3px darkcyan;
+}
+
+li{
+    border: solid 25px white;
+}
