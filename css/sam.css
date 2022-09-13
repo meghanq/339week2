@@ -1,0 +1,53 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+    text-align: center;
+    font-size: 36px;
+ }
+
+ 
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+    text-align:center;
+    border: none;
+    padding: 10px;
+    
+ }
+
+ nav li{
+    display: inline;
+    font-size: 30px;
+    background-color:rgb(251, 240, 251);
+    border: solid black;
+    border-radius: 15px;
+    padding: 8px;
+ }
+
+ main img{
+    border:4px dotted black;
+    border-radius:5px;
+    justify-content:center;
+    width:24%;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+ }
+ 
+ p{
+    text-align: left;
+    padding: 15px 15px 15px 15px;
+    font-size: 20px;
+    border: 1px dotted rgb(235, 75, 190);
+    padding: 15px;
+
+ }
