@@ -4,10 +4,11 @@ body{
     line-height:1.15;
     background-color: lightcyan;
  }
-  
+
  h1,h2, h3{
     font-weight: bold;
     margin-top:15px;
+    text-align: center;
   
  }
  ul li{
@@ -34,3 +35,11 @@ body{
    text-align: center;
    padding: 10px;
  }
+ h1{ 
+   text-align: center;
+   color: darkgreen;
+   font-size: 40px;
+}
+img{ 
+   border-radius: 10%
+}
